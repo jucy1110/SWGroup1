@@ -4,6 +4,6 @@ public class DingDingClass {
      Integer totalStock;
      
      public void setTotalStock(Integer n){
-    	 this.totalStock = n+1;
+    	 this.totalStock = n+2;
      }
 }
