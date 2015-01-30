@@ -4,8 +4,9 @@ public class DingDingClass implements DingDing{
      Integer totalStock;
      
      @Override
-     public void setTotalStock(Integer n){
-    	 this.totalStock = n+2;
+     public int setTotalStock(Integer n){
+    	 int m = 3+5+6+7;
+    	 return m;
      }
 
 }
