@@ -10,8 +10,5 @@ public class DingDingClass implements DingDing{
     	 if (n > 3){
     		 totalChange++;
     	 }
-    	 if (totalStock<5){
-    		 totalChange = totalChange *3;
-    	 }
      }
 	}
