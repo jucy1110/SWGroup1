@@ -14,4 +14,9 @@ public class DingDingClass implements DingDing{
     		 totalChange = totalChange *3;
     	 }
      }
-	}
+//<<<<<<< HEAD
+//	}
+//=======
+
+}
+//>>>>>>> dingbranch
